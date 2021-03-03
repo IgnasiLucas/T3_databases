@@ -10,11 +10,12 @@ seguint el tutorial [*From Zero to Binder in R!*](https://github.com/alan-turing
 de l'Alan Turing Institute. Els continguts inclouen, a banda d'aquest README.md, els
 arxius següents:
 
------------   -------------
-runtime.txt   Indica que els quaderns jupyter utilitzaran el kernel de R, en la seua versió de la data indicada.
-install.R     Per la instal·lació dels paquets d'R necessaris.
-cast.ipynb    Quadern de la pràctica en castellà.
-vale.ipynb    Quadern de la pràctica en valencià (en progrés).
+| Arxiu       | Descripció                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| runtime.txt | Indica que els quaderns jupyter utilitzaran el kernel de R, en la seua versió de la data indicada. |
+| install.R   | Per la instal·lació dels paquets d'R necessaris.                                                   |
+| cast.ipynb  | Quadern de la pràctica en castellà.                                                                |
+| vale.ipynb  | Quadern de la pràctica en valencià (en progrés).                                                   |
 
 
 
